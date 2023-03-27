@@ -1,2 +1,2 @@
-email :
-gitID :
+email :pringring97@gmail.com
+gitID :PRING02
